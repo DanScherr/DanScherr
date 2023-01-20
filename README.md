@@ -44,11 +44,7 @@
     <tr>
         <!-- titulo -->
         <th>
-            <ul>
-                <li>
-                    <h1 align="center" style="font-weight:700">GitHub Activity :octocat::technologist:</h1>
-                </li>
-            </ul>
+            <h1 align="center" style="font-weight:700">:octocat: GitHub Activity</h1>
         </th>
     </tr>
     <!-- row -->
