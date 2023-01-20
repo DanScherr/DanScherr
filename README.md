@@ -67,28 +67,28 @@
     <tr>
         <!-- column -->
         <td>
-            <h4 align="right" style="font-weight:600">:small_blue_diamond: POO;</h2></li>
+            <h4 align="center" style="font-weight:600">:small_blue_diamond: POO;</h2></li>
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h4 align="right" style="font-weight:600">:small_blue_diamond: Flask (API);</h2></li>
+            <h4 align="center" style="font-weight:600">:small_blue_diamond: Flask (API);</h2></li>
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h4 align="right" style="font-weight:600">:small_blue_diamond: PySpark (Big Data);</h2></li>
+            <h4 align="center" style="font-weight:600">:small_blue_diamond: PySpark (Big Data);</h2></li>
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h4 align="right" style="font-weight:600">:small_blue_diamond: - Pandas, Numpy, Matplotlib, etc. (Data Analisis).</h2></li>
+            <h4 align="center" style="font-weight:600">:small_blue_diamond: - Pandas, Numpy, Matplotlib, etc. (Data Analisis).</h2></li>
         </td>
     </tr>
     
