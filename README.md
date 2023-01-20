@@ -140,6 +140,62 @@
             <h5 align="center" style="font-weight:600">:small_blue_diamond: Kubernetes;</h2></li>
         </td>
     </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Cloud:</h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Aws;</h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Ibm DB2;</h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: CI/CD:</h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: GitHub;</h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: SOs:</h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Linux (flavor: Ubuntu);</h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Windows;</h2></li>
+        </td>
+    </tr>
 </table>
 
 <!-- ------------------------------- GITHUB ACTIVITY------------------------------------- -->
