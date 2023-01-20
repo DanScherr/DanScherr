@@ -90,35 +90,50 @@
     <tr>
         <!-- column -->
         <td>
-            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Python:</h2></li>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Python:
+            <a href="https://ibm-learning.udemy.com/certificate/UC-f796b0de-fc12-4941-99b5-5fe8b77b1202/">:file_folder:</a>
+            <a href="https://github.com/DanScherr/learning-courses/tree/main/python">:memo:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: POO;</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: POO; 
+            <a href="https://github.com/DanScherr/ibm-school-of-data_engineering/tree/main/2-programacao-orientada-a-objetos">:file_folder:</a>
+            <a href="https://ibm-learning.udemy.com/certificate/UC-f796b0de-fc12-4941-99b5-5fe8b77b1202/">:memo:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: Flask (API);</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Flask (API);
+            <a href="https://github.com/DanScherr/learning-courses/tree/main/python/api-restful">:file_folder:</a>
+            <a href="https://ibm-learning.udemy.com/certificate/UC-d48992b0-cadc-4888-a462-2b8129b1a7ee/">:memo:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: PySpark (Big Data);</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: PySpark (Big Data);
+            <a href="https://github.com/DanScherr/learning-courses/tree/main/spark">:file_folder:</a>
+            <!-- <a href="https://ibm-learning.udemy.com/certificate/UC-d48992b0-cadc-4888-a462-2b8129b1a7ee/">:memo:</a>
+            </h2></li> -->
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: - Pandas, Numpy, Matplotlib, etc. (Data Analisis).</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: - Pandas, Numpy, Matplotlib, etc. (Data Analisis).
+            <a href="https://github.com/DanScherr/ibm-school-of-data_engineering/tree/main/1-python">:file_folder:</a>
+            <!-- <a href="https://ibm-learning.udemy.com/certificate/UC-d48992b0-cadc-4888-a462-2b8129b1a7ee/">:memo:</a>
+            </h2></li> -->
         </td>
     </tr>
     <!-- row -->
@@ -146,28 +161,37 @@
     <tr>
         <!-- column -->
         <td>
-            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Docker:</h2></li>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Docker:
+            <a href="https://github.com/DanScherr/ibm-school-of-data_engineering/tree/main/4-docker">:file_folder:</a>
+            <a href="https://ibm-learning.udemy.com/certificate/UC-216782a4-a714-4942-892e-646f52dbd271/">:memo:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: Docker Compose;</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Docker Compose;
+            <a href="https://github.com/DanScherr/learning-courses/tree/main/docker/4-Docker-Compose">:file_folder:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: SWARM;</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: SWARM;
+            <a href="https://github.com/DanScherr/learning-courses/tree/main/docker/5-swarm">:file_folder:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: Kubernetes;</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Kubernetes;
+            <a href="https://github.com/DanScherr/learning-courses/tree/main/docker/6-kubernetes">:file_folder:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
@@ -188,7 +212,9 @@
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: Ibm DB2;</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Ibm DB2;
+            <a href="https://github.com/DanScherr/ibm-school-of-data_engineering/tree/main/7-connect-to-db2">:file_folder:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
@@ -202,7 +228,10 @@
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: GitHub;</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: GitHub;
+            <a href="https://github.com/DanScherr/GitStart">:file_folder:</a>
+            <a href="https://ibm-learning.udemy.com/certificate/UC-4a5ed0c6-77c6-4c68-9900-2780efb6dcac/">:memo:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
