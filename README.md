@@ -40,17 +40,23 @@
 
 - ## **GitHub Activity** :octocat::technologist:
 
-<!-- git stats -->
-<a href="https://github.com/DanScherr">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&include_all_commits=true&count_private=true&show_icons=true&theme=black-ice&bg_color=0A0A0A" width=50%/>
-
-<br><br>
-
-<!-- most common languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danscherr&theme=c&line_height=20&bg_color=0A0A0A" width=50%/>
-
-</a>
-
+<table>
+    <!-- row -->
+    <tr>
+        <!-- coluna -->
+        <td align="center">
+            <!-- git stats -->
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&include_all_commits=true&count_private=true&show_icons=true&theme=black-ice&bg_color=0A0A0A" height=150/>
+        </td>
+    <tr>
+        <!-- coluna -->
+        <td align="center">
+            <!-- most common languages -->
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danscherr&theme=c&line_height=20&bg_color=0A0A0A" height=250/>
+        </td>
+    <!-- row -->
+    </tr>
+</table>
 
 <br>
 
@@ -60,18 +66,29 @@
 
 - ## **My Projects Directories** :open_file_folder::technologist:
 
-<!-- a project icon -->
-<a href="https://github.com/DanScherr/ibm-school-of-data_engineering">
-  <img align="center" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=ibm-school-of-data_engineering&theme=tokyonight" width=50%/>
-</a>
-
-<br><br>
-
-<!-- a project icon -->
-<a href="https://github.com/DanScherr/learning-courses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=learning-courses&theme=tokyonight" width=50%/>
-</a>
+<table>
+    <!-- row -->
+    <tr>
+        <!-- coluna -->
+        <td align="center">
+            <!-- a project icon -->
+            <a href="https://github.com/DanScherr/ibm-school-of-data_engineering">
+            <img align="center" 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=ibm-school-of-data_engineering&theme=tokyonight">
+            </a>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- coluna -->
+        <td align="center">
+            <!-- a project icon -->
+            <a href="https://github.com/DanScherr/learning-courses">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=learning-courses&theme=tokyonight">
+            </a>
+        </td>
+    </tr>
+</table>
 
 <br>
 
