@@ -39,13 +39,11 @@
 
 <br>
 
-<br>
 
 <!-- git stats -->
 <a href="https://github.com/DanScherr">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=black-ice&bg_color=0A0A0A"/>
 
-<br>
 <br>
 
 <!-- most common languages -->
@@ -61,7 +59,7 @@
 
 <br>
 
-- ## **My Projects Directories**
+- ## **My Projects Directories** :open_file_folder::technologist:
 
 <!-- a project icon -->
 <a href="https://github.com/DanScherr/ibm-school-of-data_engineering">
@@ -69,7 +67,7 @@
   src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=ibm-school-of-data_engineering&theme=tokyonight" />
 </a>
 
-<br><br>
+<br>
 
 <!-- a project icon -->
 <a href="https://github.com/DanScherr/learning-courses">
