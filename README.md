@@ -39,6 +39,7 @@
 
 <br>
 
+- ## **GitHub Activity** :octocat::technologist:
 
 <!-- git stats -->
 <a href="https://github.com/DanScherr">
@@ -57,7 +58,6 @@
 <!-- line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
 
 - ## **My Projects Directories** :open_file_folder::technologist:
 
