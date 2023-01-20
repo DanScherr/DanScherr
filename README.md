@@ -1,10 +1,67 @@
-<!-- line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=50%><br><br>
-
-
-<!-- running text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Daniel+++Scheicher;Data+Engineer+Itern+.+.;at+Ibm.&duration=4000)](https://git.io/typing-svg)
-
+<!-- ------------------------- Running Presentation Text --------------------------------- -->
+<table>
+    <!-- row -->
+    <tr>
+        <td>
+            <!-- line -->
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- titulo -->
+        <td>
+            <!-- running text -->
+            <p align="center">
+            <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&color=cyan&center=True&vCenter=true&lines=Daniel+Scheicher;Data+Engineer+Intern+...;at+IBM." style="vertical-align:middle"></a>
+            </p>
+        </td>
+    </tr>
+    <!-- row -->
+<!-- -----------------------------------Project Directories-------------------------------- -->
+    <!-- row -->
+    <tr>
+        <td>
+            <!-- line -->
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- titulo -->
+        <th>
+            <h1 align="center" style="font-weight:1000">:open_file_folder: My Projects Directories</h1>
+        </th>
+    </tr>
+    <!-- row -->
+    <tr>
+        <td>
+            <!-- line -->
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- coluna -->
+        <td align="center">
+            <!-- a project icon -->
+            <a href="https://github.com/DanScherr/ibm-school-of-data_engineering">
+            <img align="center" 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=ibm-school-of-data_engineering&theme=tokyonight">
+            </a>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- coluna -->
+        <td align="center">
+            <!-- a project icon -->
+            <a href="https://github.com/DanScherr/learning-courses">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=learning-courses&theme=tokyonight">
+            </a>
+        </td>
+    </tr>
+</table>
 
 <!-- ------------------------------------- SKILLS ----------------------------------------- -->
 <table>
@@ -208,52 +265,6 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danscherr&theme=c&line_height=20&bg_color=0A0A0A" height=250/>
         </td>
     <!-- row -->
-    </tr>
-</table>
-
-<!-- ------------------------------------------------------------------------------------ -->
-<table>
-    <!-- row -->
-    <tr>
-        <td>
-            <!-- line -->
-            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-        </td>
-    </tr>
-    <!-- row -->
-    <tr>
-        <!-- titulo -->
-        <th>
-            <h1 align="center" style="font-weight:1000">:open_file_folder: My Projects Directories</h1>
-        </th>
-    </tr>
-    <!-- row -->
-    <tr>
-        <td>
-            <!-- line -->
-            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-        </td>
-    </tr>
-    <!-- row -->
-    <tr>
-        <!-- coluna -->
-        <td align="center">
-            <!-- a project icon -->
-            <a href="https://github.com/DanScherr/ibm-school-of-data_engineering">
-            <img align="center" 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=ibm-school-of-data_engineering&theme=tokyonight">
-            </a>
-        </td>
-    </tr>
-    <!-- row -->
-    <tr>
-        <!-- coluna -->
-        <td align="center">
-            <!-- a project icon -->
-            <a href="https://github.com/DanScherr/learning-courses">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=learning-courses&theme=tokyonight">
-            </a>
-        </td>
     </tr>
 </table>
 
