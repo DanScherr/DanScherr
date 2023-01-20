@@ -159,7 +159,9 @@
         <!-- column -->
         <td>
             <a href="">
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: Faixa Cinza Programa Judoca de Modelagem do Itau Unibanco;</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Faixa Cinza Programa Judoca de Modelagem do Itau Unibanco;
+            <a href="https://github.com/DanScherr/DanScherr/blob/main/images/certificate-judoca-faixa-cinza-itau-17-06-2022.png">:memo:</a>
+            </h2></li>
             </a>
         </td>
     </tr>
