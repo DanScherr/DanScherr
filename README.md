@@ -41,12 +41,12 @@
 
 <!-- git stats -->
 <a href="https://github.com/DanScherr">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=black-ice&bg_color=0A0A0A"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=black-ice&bg_color=0A0A0A" width=50%/>
 
 <br><br>
 
 <!-- most common languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danscherr&theme=c&line_height=20&bg_color=0A0A0A" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danscherr&theme=c&line_height=20&bg_color=0A0A0A" width=50%/>
 
 </a>
 
@@ -54,7 +54,7 @@
 <br>
 
 <!-- line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=50%>
 
 
 - ## **My Projects Directories** :open_file_folder::technologist:
@@ -62,20 +62,20 @@
 <!-- a project icon -->
 <a href="https://github.com/DanScherr/ibm-school-of-data_engineering">
   <img align="center" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=ibm-school-of-data_engineering&theme=tokyonight" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=ibm-school-of-data_engineering&theme=tokyonight" width=50%/>
 </a>
 
 <br><br>
 
 <!-- a project icon -->
 <a href="https://github.com/DanScherr/learning-courses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=learning-courses&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=learning-courses&theme=tokyonight" width=50%/>
 </a>
 
 <br>
 
 <!-- line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=50%>
 
 <br>
 
