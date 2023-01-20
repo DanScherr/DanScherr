@@ -42,7 +42,7 @@
 
 <!-- git stats -->
 <a href="https://github.com/DanScherr">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=black-ice&bg_color=0A0A0A" width=50%/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&include_all_commits=true&count_private=true&show_icons=true&theme=black-ice&bg_color=0A0A0A" width=50%/>
 
 <br><br>
 
