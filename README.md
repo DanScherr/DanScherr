@@ -197,7 +197,9 @@
     <tr>
         <!-- column -->
         <td>
-            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Cloud:</h2></li>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Cloud:
+            <a href="https://yourlearning.ibm.com/certificate/URL-C696CACAB3FB">:memo:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
