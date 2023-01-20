@@ -31,23 +31,35 @@
     - Linux (flavor: Ubuntu)
     - Windows
 
-<!-- line -->
-<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <br>
 
-<a href="https://github.com/DanScherr">
+<!-- line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
+
+<br>
+
+<!-- git stats -->
+<a href="https://github.com/DanScherr">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=black-ice&bg_color=0A0A0A"/>
 
 <br>
+<br>
 
+<!-- most common languages -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danscherr&theme=c&line_height=20&bg_color=0A0A0A" />
 
 </a>
 
+
+<br>
+
 <!-- line -->
-<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 - ## **My Projects Directories**
 
@@ -57,7 +69,8 @@
   src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=ibm-school-of-data_engineering&theme=tokyonight" />
 </a>
 
-<br>
+<br><br>
+
 <!-- a project icon -->
 <a href="https://github.com/DanScherr/learning-courses">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=learning-courses&theme=tokyonight" />
