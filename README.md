@@ -212,7 +212,9 @@
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: Ibm DB2;</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Ibm DB2;
+            <a href="https://github.com/DanScherr/ibm-school-of-data_engineering/tree/main/7-connect-to-db2">:file_folder:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
