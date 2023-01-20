@@ -79,4 +79,4 @@
 
 <br>
 
-<img src="./images/the-end-img.png" widht=50%>
+<img src="./images/the-end-img.png" width=50%>
