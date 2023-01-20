@@ -46,8 +46,7 @@
         <td align="center">
             <!-- a project icon -->
             <a href="https://github.com/DanScherr/ibm-school-of-data_engineering">
-            <img align="center" 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=ibm-school-of-data_engineering&theme=tokyonight">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&theme=tokyonight&repo=ibm-school-of-data_engineering">
             </a>
         </td>
     </tr>
@@ -57,7 +56,7 @@
         <td align="center">
             <!-- a project icon -->
             <a href="https://github.com/DanScherr/learning-courses">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&repo=learning-courses&theme=tokyonight">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&theme=tokyonight&repo=learning-courses">
             </a>
         </td>
     </tr>
@@ -285,13 +284,13 @@
         <!-- coluna -->
         <td align="center">
             <!-- git stats -->
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&include_all_commits=true&count_private=true&show_icons=true&theme=black-ice&bg_color=0A0A0A" height=150/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=danscherr&theme=black-ice&bg_color=0A0A0A&include_all_commits=true&count_private=true&show_icons=true" height=150/>
         </td>
     <tr>
         <!-- coluna -->
         <td align="center">
             <!-- most common languages -->
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danscherr&theme=c&line_height=20&bg_color=0A0A0A" height=250/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danscherr&theme=black-ice&bg_color=0A0A0A" height=250/>
         </td>
     <!-- row -->
     </tr>
