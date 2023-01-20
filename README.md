@@ -241,7 +241,7 @@
     <tr>
         <!-- titulo -->
         <th>
-            <h1 align="center" style="font-weight:1000">:octocat: GitHub Activity</h1>
+            <h1 align="center" style="font-weight:1000">:chart_with_upwards_trend: GitHub Activity</h1>
         </th>
     </tr>
     <!-- row -->
