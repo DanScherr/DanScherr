@@ -37,8 +37,6 @@
 <!-- line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
 - ## **GitHub Activity** :octocat::technologist:
 
 <!-- git stats -->
@@ -81,4 +79,4 @@
 
 <br>
 
-<img src="https://github.com/DanScherr/ibm-school-of-data_engineering/tree/main/images">
+[![](./images/the-end-img.png)](https://github.com/DanScherr)
