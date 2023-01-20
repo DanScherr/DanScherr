@@ -60,7 +60,7 @@
     <tr>
         <!-- column -->
         <td>
-            <h2 align="left" style="font-weight:800">:diamond_shape_with_a_dot_inside: Python:</h2></li>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Python:</h2></li>
         </td>
     </tr>
     <!-- row -->
@@ -91,7 +91,27 @@
             <h4 align="center" style="font-weight:600">:small_blue_diamond: - Pandas, Numpy, Matplotlib, etc. (Data Analisis).</h2></li>
         </td>
     </tr>
-    
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Data Modelling:</h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h4 align="center" style="font-weight:600">:small_blue_diamond: MER & DER;</h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h4 align="center" style="font-weight:600">:small_blue_diamond: Data Normalization;</h2></li>
+        </td>
+    </tr>
 </table>
 
 <!-- ------------------------------- GITHUB ACTIVITY------------------------------------- -->
