@@ -79,4 +79,4 @@
 
 <br>
 
-[![](./images/the-end-img.png)](https://github.com/DanScherr)
+<img src="./images/the-end-img.png" widht=50%>
