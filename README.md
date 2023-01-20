@@ -36,11 +36,28 @@
 <br>
 
 <!-- line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=50%>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- ## **GitHub Activity** :octocat::technologist:
 
 <table>
+    <!-- row -->
+    <tr>
+        <!-- titulo -->
+        <th>
+            <ul>
+                <li>
+                    <h1 align="center" style="font-weight:700">GitHub Activity :octocat::technologist:</h1>
+                </li>
+            </ul>
+        </th>
+    </tr>
+    <!-- row -->
+    <tr>
+        <td>
+            <!-- line -->
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        </td>
+    </tr>
     <!-- row -->
     <tr>
         <!-- coluna -->
