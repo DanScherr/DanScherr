@@ -90,7 +90,10 @@
     <tr>
         <!-- column -->
         <td>
-            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Python:</h2></li>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Python:
+            <a href="https://ibm-learning.udemy.com/certificate/UC-f796b0de-fc12-4941-99b5-5fe8b77b1202/">:file_folder:</a>
+            <a href="https://github.com/DanScherr/learning-courses/tree/main/python">:memo:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
