@@ -128,7 +128,6 @@
         <!-- column -->
         <td>
             <h5 align="center" style="font-weight:600">:small_blue_diamond: - Pandas, Numpy, Matplotlib, etc. (Data Analisis).
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: Flask (API);
             <a href="https://github.com/DanScherr/ibm-school-of-data_engineering/tree/main/1-python">:file_folder:</a>
             <!-- <a href="https://ibm-learning.udemy.com/certificate/UC-d48992b0-cadc-4888-a462-2b8129b1a7ee/">:memo:</a>
             </h2></li> -->
