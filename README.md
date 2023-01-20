@@ -32,19 +32,20 @@
     - Linux (flavor: Ubuntu)
     - Windows
 
-
-<br>
-
-<!-- line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
+<!-- ------------------------------------------------------------------------------------ -->
 <table>
+    <!-- row -->
+    <tr>
+        <td>
+            <!-- line -->
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        </td>
+    </tr>
     <!-- row -->
     <tr>
         <!-- titulo -->
         <th>
-            <h1 align="center" style="font-weight:700">:octocat: GitHub Activity</h1>
+            <h1 align="center" style="font-weight:1000">:octocat: GitHub Activity</h1>
         </th>
     </tr>
     <!-- row -->
@@ -71,15 +72,29 @@
     </tr>
 </table>
 
-<br>
-
-<!-- line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=50%>
-
-
-- ## **My Projects Directories** :open_file_folder::technologist:
-
+<!-- ------------------------------------------------------------------------------------ -->
 <table>
+    <!-- row -->
+    <tr>
+        <td>
+            <!-- line -->
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- titulo -->
+        <th>
+            <h1 align="center" style="font-weight:1000">:open_file_folder: My Projects Directories</h1>
+        </th>
+    </tr>
+    <!-- row -->
+    <tr>
+        <td>
+            <!-- line -->
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        </td>
+    </tr>
     <!-- row -->
     <tr>
         <!-- coluna -->
@@ -103,13 +118,32 @@
     </tr>
 </table>
 
-<br>
-
-<!-- line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=50%>
-
-<br>
-
-<a href="https://github.com/DanScherr/">
-    <img src="./images/the-end-img.png" width=50%>
-</a>
+<!-- ------------------------------------------------------------------------------------ -->
+<table>
+    <!-- row -->
+    <tr>
+        <td>
+            <!-- line -->
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        </td>
+    </tr>
+    <tr>
+        <th>
+            <h1 align="center" style="font-weight:1000">:handshake: Feel free to get in touch</h1>
+        </th>
+    </tr>
+    <!-- row -->
+    <tr>
+        <td>
+            <!-- line -->
+            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/DanScherr/">
+                <img src="./images/the-end-img.png" width=50%>
+            </a>
+        </td>
+    </tr>
+</table>
