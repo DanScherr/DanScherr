@@ -139,7 +139,28 @@
     <tr>
         <!-- column -->
         <td>
-            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Data Modelling:</h2></li>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: SQL:
+            <a href="https://github.com/DanScherr/ibm-school-of-data_engineering/tree/main/5-SQL">:file_folder:</a>
+            <a href="https://yourlearning.ibm.com/certificate/URL-1498111204378">:memo:</a>
+            </h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Data Modelling:
+            <a href="https://yourlearning.ibm.com/certificate/URL-1498111204378">:memo:</a>
+            </h2></li>
+        </td>
+    </tr>
+    <!-- row -->
+    <tr>
+        <!-- column -->
+        <td>
+            <a href="">
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: Faixa Cinza Programa Judoca de Modelagem do Itau Unibanco;</h2></li>
+            </a>
         </td>
     </tr>
     <!-- row -->
@@ -197,7 +218,9 @@
     <tr>
         <!-- column -->
         <td>
-            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Cloud:</h2></li>
+            <h2 align="left" style="font-weight:900">:diamond_shape_with_a_dot_inside: Cloud:
+            <a href="https://yourlearning.ibm.com/certificate/URL-C696CACAB3FB">:memo:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
