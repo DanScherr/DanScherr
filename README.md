@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- running text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Daniel+++Scheicher;Data+Engineer+Itern+.+.;at+Ibm.&center=True&duration=4000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Daniel+++Scheicher;Data+Engineer+Itern+.+.;at+Ibm.&center=True&duration=4000&width=500)](https://git.io/typing-svg)
 
 <!-- line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
