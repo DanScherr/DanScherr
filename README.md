@@ -228,7 +228,10 @@
     <tr>
         <!-- column -->
         <td>
-            <h5 align="center" style="font-weight:600">:small_blue_diamond: GitHub;</h2></li>
+            <h5 align="center" style="font-weight:600">:small_blue_diamond: GitHub;
+            <a href="https://github.com/DanScherr/GitStart">:file_folder:</a>
+            <a href="https://ibm-learning.udemy.com/certificate/UC-4a5ed0c6-77c6-4c68-9900-2780efb6dcac/">:memo:</a>
+            </h2></li>
         </td>
     </tr>
     <!-- row -->
