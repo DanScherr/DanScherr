@@ -13,7 +13,7 @@
         <td>
             <!-- running text -->
             <p align="center">
-            <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&color=cyan&center=True&vCenter=true&lines=Daniel+Scheicher;Data+Engineer+Intern+...;at+IBM." style="vertical-align:middle"></a>
+            <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&color=cyan&center=True&vCenter=true&lines=Daniel+Scheicher;Application+Developer+and+Data+Engineer+...;at+IBM." style="vertical-align:middle"></a>
             </p>
         </td>
     </tr>
@@ -46,7 +46,7 @@
         <td align="center">
             <!-- a project icon -->
             <a href="https://github.com/DanScherr/ibm-school-of-data_engineering">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&theme=tokyonight&repo=ibm-school-of-data_engineering">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&theme=tokyonight&repo=quatro-em-linha-backend">
             </a>
         </td>
     </tr>
@@ -56,7 +56,7 @@
         <td align="center">
             <!-- a project icon -->
             <a href="https://github.com/DanScherr/learning-courses">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&theme=tokyonight&repo=learning-courses">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danscherr&theme=tokyonight&repo=quatro-em-linha-frontend">
             </a>
         </td>
     </tr>
